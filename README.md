@@ -2,28 +2,19 @@
 
 A Chrome extension that allows you to easily scrape Google Maps search results and download the data as CSV files.
 
-## Table of Contents
-- [For Users](#for-users)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [For Developers](#for-developers)
-  - [Setting Up Development Environment](#setting-up-development-environment)
-  - [Project Structure](#project-structure)
-  - [Making Changes](#making-changes)
-  - [Packaging for Distribution](#packaging-for-distribution)
 
 ## For Users
 
 ### Installation
 
-#### Method 1: Install from Chrome Web Store (Recommended)
+#### Method 1: Install from Chrome Web Store (Recommended)(coming soon)
 1. Navigate to the Chrome Web Store (coming soon)
 2. Search for "Google Maps to CSV" or use the direct link
 3. Click "Add to Chrome"
 4. Confirm the installation when prompted
 
 #### Method 2: Manual Installation
-1. Download the latest release from the [Releases](https://github.com/user/google-maps-to-csv/releases) page (or download this repository as a ZIP file)
+1. Download the latest release from the  page (or download this repository as a ZIP file)
 2. Extract the ZIP file to a location on your computer
 3. Open Chrome and navigate to `chrome://extensions/`
 4. Enable "Developer mode" using the toggle in the top-right corner
@@ -110,4 +101,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 
 - Built by [CCwithAI](https://www.ccwithai.com)
-- Icon provided by map.png 
